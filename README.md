@@ -30,13 +30,13 @@ This repository is for study 'NeuralODEs' under the guidance of the [Professor Y
 
 
 ````
+
 @article{chen2018neuralode,
   title={Neural Ordinary Differential Equations},
   author={Chen, Ricky T. Q. and Rubanova, Yulia and Bettencourt, Jesse and Duvenaud, David},
   journal={Advances in Neural Information Processing Systems},
   year={2018}
 }
-
 
 @misc{torchdiffeq,
     author={Chen, Ricky T. Q.},
@@ -51,4 +51,5 @@ This repository is for study 'NeuralODEs' under the guidance of the [Professor Y
    year         = 2022,
    howpublished = {\url{https://uvadlc-notebooks.readthedocs.io/en/latest/}}
 }
+
 ```
