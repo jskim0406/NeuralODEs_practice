@@ -36,20 +36,15 @@ This repository is for study 'NeuralODEs' under the guidance of the [Professor Y
   journal={Advances in Neural Information Processing Systems},
   year={2018}
 }
-```
 
 
-```
 @misc{torchdiffeq,
     author={Chen, Ricky T. Q.},
     title={torchdiffeq},
     year={2018},
     url={https://github.com/rtqichen/torchdiffeq},
 }
-```
 
-
-```
 @misc{lippe2022uvadlc,
    title        = {{UvA Deep Learning Tutorials}},
    author       = {Phillip Lippe},
