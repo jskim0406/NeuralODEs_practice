@@ -5,7 +5,7 @@ This repository is for study 'NeuralODEs' under the guidance of the [Professor Y
 
 ### Dataset(Half moon dataset, 2-dimension)
 
-![dataset](./assets/halfmoon_dataset.png)
+<img src="./assets/halfmoon_dataset.png" width="500">
 
 ### Problem definition
 
@@ -14,23 +14,20 @@ This repository is for study 'NeuralODEs' under the guidance of the [Professor Y
 ### Trained results
 
 - Vector-field
-
-![Vector-field](./assets/NODE_vector_field.png)
+<img src="./assets/NODE_vector_field.png" width="500">
 
 - State-space
-
-![State-space](./assets/NODE_state_space.png)
+<img src="./assets/NODE_state_space.png" width="500">
 
 - transformation sequence
-
-![sequence](./assets/halfmoon.gif)
+<img src="./assets/halfmoon.gif" width="500">
 
 - transformation sequence(Augmented NeuralODEs)
-
-![sequence](./assets/halfmoon_augNODE.gif)
+<img src="./assets/halfmoon_augNODE.gif" width="500">
 
 
 ### Reference
+
 
 ````
 @article{chen2018neuralode,
@@ -40,6 +37,8 @@ This repository is for study 'NeuralODEs' under the guidance of the [Professor Y
   year={2018}
 }
 ```
+
+
 ```
 @misc{torchdiffeq,
     author={Chen, Ricky T. Q.},
@@ -48,6 +47,8 @@ This repository is for study 'NeuralODEs' under the guidance of the [Professor Y
     url={https://github.com/rtqichen/torchdiffeq},
 }
 ```
+
+
 ```
 @misc{lippe2022uvadlc,
    title        = {{UvA Deep Learning Tutorials}},
